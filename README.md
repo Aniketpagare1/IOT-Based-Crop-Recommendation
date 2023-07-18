@@ -1,4 +1,4 @@
-# Crop-Recommendation-Using-soil-qaulity-test
+# Crop-Recommendation-Using-soil-quality-test
 IOT and Machine Learning based project for crop recommendation 
 To run this project u will require coolterm application for sensors data into normal text file.
 firstly put all sensors into soil then upload code in arduino then connect port of arduino to coolterm then sensors data  will be start
