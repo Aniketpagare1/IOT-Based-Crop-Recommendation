@@ -17,7 +17,7 @@ This project provides **crop recommendations** based on **soil quality data** co
 ## 📂 Project Structure
 
 ```txt
-crop-recommendation-system/
+Crop-Recommendation-Using-soil-quality-test/
 │
 │── dht.ino                # Arduino code for soil sensors
 │── sens.txt               # Sample sensor data file (to be generated)
