@@ -19,14 +19,11 @@ This project provides **crop recommendations** based on **soil quality data** co
 ```txt
 crop-recommendation-system/
 │
-├── sensors/
-│   ├── arduino_code.ino   # Arduino code for soil sensors
-│   └── sensor_data.txt    # Sample sensor data file (to be generated)
-├── models/
-│   └── crop_model.pkl     # Pretrained machine learning model
+│── dht.ino                # Arduino code for soil sensors
+│── sens.txt               # Sample sensor data file (to be generated)
+│── cropdata.csv           # Data set for project
 ├── main.py                # Main Python file for processing data
 ├── README.md              # Instructions (this file)
-├── requirements.txt       # List of Python dependencies
 ```
 
 ---
